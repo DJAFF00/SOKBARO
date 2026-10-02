@@ -40,9 +40,6 @@ export const Footer: React.FC = () => {
             <p className="mb-3 text-[#F7F2EA]/90 leading-relaxed">
               Palette Crépuscule & Cuivre Ambré : inspirée de la lueur des bougies sur le bois sombre et la douceur des nuits de Cotonou.
             </p>
-            <p className="text-[#EFE6D8]/50">
-              Typographies d’art : Italiana & Playfair Display.
-            </p>
           </div>
 
           {/* Col 2: Horaires & Réservation */}
