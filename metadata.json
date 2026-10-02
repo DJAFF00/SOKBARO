@@ -1,0 +1,6 @@
+{
+  "name": "SOKBARO | Restaurant Haut de Gamme & Bar Lounge à Cotonou",
+  "description": "Site vitrine immersif du restaurant SOKBARO à Cotonou (Bénin). Petites portions raffinées à partager, cocktails d'auteur, ambiance branchée et feutrée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
