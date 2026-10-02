@@ -77,7 +77,7 @@ export const Footer: React.FC = () => {
             </h4>
             <div className="flex items-center gap-3 mb-4">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/sokbaro_cotonou?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-[#F7F2EA]/15 hover:border-[#D8984E] hover:text-[#D8984E] flex items-center justify-center transition-colors"
@@ -86,7 +86,7 @@ export const Footer: React.FC = () => {
                 <Instagram className="w-4 h-4" />
               </a>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/profile.php?id=61588640279374"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full border border-[#F7F2EA]/15 hover:border-[#D8984E] hover:text-[#D8984E] flex items-center justify-center transition-colors"
@@ -105,20 +105,20 @@ export const Footer: React.FC = () => {
               </a>
             </div>
             <p className="text-[11px] text-[#EFE6D8]/50 italic">
-              [À CONFIRMER : comptes sociaux officiels]
+              
             </p>
           </div>
         </div>
 
         {/* Checklist de mise en production */}
-        <div className="p-5 rounded-2xl bg-[#140F0D] border border-[#F7F2EA]/10 mb-12 text-xs text-[#EFE6D8]/70 leading-relaxed font-light">
-          <p className="font-medium text-[#D8984E] uppercase tracking-wider mb-1">
-            Guide de personnalisation finale :
-          </p>
-          <p>
-            Pour la mise en ligne finale, remplacez les photographies générées par les photos du restaurant, validez la carte définitive et les horaires dans <code className="text-[#D8984E]">src/data/restaurantData.ts</code>.
-          </p>
-        </div>
+        // <div className="p-5 rounded-2xl bg-[#140F0D] border border-[#F7F2EA]/10 mb-12 text-xs text-[#EFE6D8]/70 leading-relaxed font-light">
+        //   <p className="font-medium text-[#D8984E] uppercase tracking-wider mb-1">
+        //     Guide de personnalisation finale :
+        //   </p>
+        //   <p>
+        //     Pour la mise en ligne finale, remplacez les photographies générées par les photos du restaurant, validez la carte définitive et les horaires dans <code className="text-[#D8984E]">src/data/restaurantData.ts</code>.
+        //   </p>
+        // </div>
 
         {/* Bottom line */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#EFE6D8]/45 pt-8 border-t border-[#F7F2EA]/10">
