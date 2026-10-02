@@ -110,16 +110,6 @@ export const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* Checklist de mise en production */}
-        // <div className="p-5 rounded-2xl bg-[#140F0D] border border-[#F7F2EA]/10 mb-12 text-xs text-[#EFE6D8]/70 leading-relaxed font-light">
-        //   <p className="font-medium text-[#D8984E] uppercase tracking-wider mb-1">
-        //     Guide de personnalisation finale :
-        //   </p>
-        //   <p>
-        //     Pour la mise en ligne finale, remplacez les photographies générées par les photos du restaurant, validez la carte définitive et les horaires dans <code className="text-[#D8984E]">src/data/restaurantData.ts</code>.
-        //   </p>
-        // </div>
-
         {/* Bottom line */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#EFE6D8]/45 pt-8 border-t border-[#F7F2EA]/10">
           <p>© {new Date().getFullYear()} SOKBARO Cotonou. Tous droits réservés.</p>
