@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
         className="absolute inset-0 z-0 overflow-hidden pointer-events-none"
       >
         <img
-          src="/src/assets/images/hero_velvet_lounge_1790937947549.jpg"
+          src="/images/hero.jpg"
           alt="Ambiance chaleureuse et feutrée au restaurant SOKBARO"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center brightness-75 contrast-105"

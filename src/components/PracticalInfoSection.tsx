@@ -80,7 +80,7 @@ export const PracticalInfoSection: React.FC = () => {
             {/* Background photo preview with gentle ambient scrim */}
             <div className="absolute inset-0 z-0">
               <img
-                src="/src/assets/images/soiree_ambiance_chaleur_1790937983157.jpg"
+                src="/images/terrasse.jpg"
                 alt="Cadre agréable SOKBARO Cotonou"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover opacity-25"

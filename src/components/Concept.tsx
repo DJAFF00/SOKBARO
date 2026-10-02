@@ -82,7 +82,7 @@ export const Concept: React.FC = () => {
           >
             <div className="relative aspect-[4/3] rounded-3xl overflow-hidden shadow-[0_20px_60px_rgba(0,0,0,0.6)] border border-[#F7F2EA]/10">
               <img
-                src="/src/assets/images/tapas_warm_terracotta_1790937959726.jpg"
+                src="/images/tapas.jpg"
                 alt="Petites portions chaudes et savoureuses de tapas à partager"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
@@ -106,7 +106,7 @@ export const Concept: React.FC = () => {
           >
             <div className="relative aspect-[3/4] rounded-3xl overflow-hidden shadow-[0_20px_60px_rgba(0,0,0,0.6)] border border-[#F7F2EA]/10">
               <img
-                src="/src/assets/images/cocktail_golden_glow_1790937971388.jpg"
+                src="/images/cocktail.jpg"
                 alt="Cocktail doré et chaleureux au bar de SOKBARO"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"

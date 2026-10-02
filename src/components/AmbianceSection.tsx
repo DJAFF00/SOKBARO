@@ -20,7 +20,7 @@ export const AmbianceSection: React.FC = () => {
       subtitle: 'La chaleur bienfaisante des soirées de Cotonou',
       description:
         'Loin du tumulte urbain, SOKBARO vous accueille dans un cocon de velours et de bois sombre. Les bougies vacillent doucement sur les tables, créant une intimité propice aux longues discussions.',
-      image: '/src/assets/images/soiree_ambiance_chaleur_1790937983157.jpg',
+      image: '/images/terrasse.jpg',
       tags: ['Ambiance calme', 'Lumière dorée', 'Cadre feutré'],
     },
     {
@@ -29,7 +29,7 @@ export const AmbianceSection: React.FC = () => {
       subtitle: 'L’art du cocktail au rythme des verres qui tintent',
       description:
         'Nos mixologues imaginent des élixirs sur mesure aux parfums d’hibiscus, de vanille bourbon et d’agrumes confits. Prenez place au bar pour savourer l’instant avant de passer à table.',
-      image: '/src/assets/images/cocktail_golden_glow_1790937971388.jpg',
+      image: '/images/cocktail.jpg',
       tags: ['Bar chaleureux', 'Cocktails fumés', 'Vins fins'],
     },
     {
@@ -38,7 +38,7 @@ export const AmbianceSection: React.FC = () => {
       subtitle: 'Pour la diaspora, les groupes et les instants précieux',
       description:
         'Que vous soyez en vacances à Cotonou ou réunis pour fêter un moment d’exception, nos tables modulables accueillent vos tablées avec une attention bienveillante et un service souriant.',
-      image: '/src/assets/images/hero_velvet_lounge_1790937947549.jpg',
+      image: '/images/hero.jpg',
       tags: ['Groupes & Diaspora', 'Service soigné', 'Enfants bienvenus'],
     },
   ];

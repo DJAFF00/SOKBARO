@@ -82,7 +82,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Bœuf fondant laqué aux épices douces, graines de sésame grillées et réduction chaleureuse de tamarin.',
     priceFca: 7500,
     highlight: 'Coup de cœur',
-    image: '/src/assets/images/tapas_warm_terracotta_1790937959726.jpg',
+    image: '/images/tapas.jpg',
     notes: 'Idéal à savourer au centre de la table'
   },
   {
@@ -92,7 +92,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Bouchées caramélisées de bananes plantains, condiment soyeux à l’avocat mûr et pointe de piment doux.',
     priceFca: 5500,
     highlight: 'Douceur végétale',
-    image: '/src/assets/images/tapas_warm_terracotta_1790937959726.jpg',
+    image: '/images/tapas_warm_terracotta_1790937959726.jpg',
     notes: 'Texture croustillante et veloutée'
   },
   {
@@ -102,7 +102,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Pêche locale du jour relevée aux agrumes frais, grenade acidulée et huile vierge parfumée aux herbes.',
     priceFca: 8500,
     highlight: 'Fraîcheur',
-    image: '/src/assets/images/tapas_dish_signature_1790937057657.jpg',
+    image: '/images/tapas_dish_signature_1790937057657.jpg',
     notes: 'Pêche artisanale de la côte béninoise'
   },
   {
@@ -112,7 +112,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Viande tendre saisie au feu de bois, purée onctueuse de patates douces aux épices douces et jus corsé.',
     priceFca: 18500,
     highlight: 'Signature Braise',
-    image: '/src/assets/images/hero_velvet_lounge_1790937947549.jpg',
+    image: '/images/hero.jpg',
     notes: 'Cuisson lente à cœur et peau croustillante'
   },
   {
@@ -122,7 +122,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Gambas royales saisies minute, beurre herbacé, crème de coco infusée au gingembre frais et manioc fondant.',
     priceFca: 22000,
     highlight: 'Prestige',
-    image: '/src/assets/images/hero_velvet_lounge_1790937947549.jpg',
+    image: '/images/hero_velvet_lounge_1790937947549.jpg',
     notes: 'Flambage délicat au rhum vieux'
   },
   {
@@ -132,7 +132,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Volaille dorée et moelleuse, mousseline de bananes jaunes et petits légumes glacés du marché.',
     priceFca: 14000,
     highlight: 'Finesse',
-    image: '/src/assets/images/soiree_ambiance_chaleur_1790937983157.jpg',
+    image: '/images/terrasse.jpg',
     notes: 'Saveurs subtiles et réconfortantes'
   },
   {
@@ -142,7 +142,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Bourbon noble infusé au bois fumé, velours de bissap artisanal, zeste d’orange séchée et volute de romarin.',
     priceFca: 7000,
     highlight: 'Création phare',
-    image: '/src/assets/images/cocktail_golden_glow_1790937971388.jpg',
+    image: '/images/cocktail.jpg',
     notes: 'Servi sous une cloche de fumée aromatique'
   },
   {
@@ -152,7 +152,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Gin botanique, pulpe fraîche de fruit de la passion, sirop artisanal de gingembre doux et bulles fines.',
     priceFca: 8500,
     highlight: 'Effervescent',
-    image: '/src/assets/images/cocktail_golden_glow_1790937971388.jpg',
+    image: '/images/cocktail_golden_glow_1790937971388.jpg',
     notes: 'Harmonie fruitée et pétillante'
   },
   {
@@ -162,7 +162,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Infusion froide de fleurs de karkadé, cordial de citronnelle fraîche et effervescence d’eau de source.',
     priceFca: 4500,
     highlight: 'Douceur sans alcool',
-    image: '/src/assets/images/cocktail_signature_bar_1790937070595.jpg',
+    image: '/images/cocktail_signature_bar_1790937070595.jpg',
     notes: 'Frais, floral et tonique'
   },
   {
@@ -172,7 +172,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Grands cépages choisis pour leur rondeur et leur élégance avec les plats épicés et les braises.',
     priceFca: 32000,
     highlight: 'Cave Sélectionnée',
-    image: '/src/assets/images/soiree_ambiance_chaleur_1790937983157.jpg',
+    image: '/images/soiree_ambiance_chaleur_1790937983157.jpg',
     notes: 'Servi à température idéale en verre cristal'
   },
   {
@@ -182,7 +182,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Fûts de chêne anciens, notes gourmandes de vanille sauvage, cacao chaud et fruits confits.',
     priceFca: 9000,
     highlight: 'Digestif d’exception',
-    image: '/src/assets/images/cocktail_golden_glow_1790937971388.jpg',
+    image: '/images/cocktail.jpg',
     notes: 'Dégustation lente en fin de soirée'
   },
   {
@@ -192,7 +192,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Grand cru de cacao onctueux, éclat croquant de noix de cajou locales torréfiées et fraîcheur passion.',
     priceFca: 6500,
     highlight: 'Gourmandise absolue',
-    image: '/src/assets/images/dessert_gourmet_plating_1790937101173.jpg',
+    image: '/images/dessert.jpg',
     notes: 'Chaud et coulant à souhait'
   },
   {
@@ -202,7 +202,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Meringue vaporeuse, mangue rôtie au sucre de canne brut et chantilly aérienne au citron vert.',
     priceFca: 6000,
     highlight: 'Nuage sucré',
-    image: '/src/assets/images/dessert_gourmet_plating_1790937101173.jpg',
+    image: '/images/dessert_gourmet_plating_1790937101173.jpg',
     notes: 'Fin de repas légère et lumineuse'
   }
 ];
